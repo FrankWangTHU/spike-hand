@@ -1,0 +1,52 @@
+{
+  "development_split_seed": 42,
+  "confirmation_split_seed": 43,
+  "baseline_v1": {
+    "best_epoch": 53.1,
+    "wrist": 30.05587458964351,
+    "pose": 37.03227787261703,
+    "bone": 64.63313134775373,
+    "motion": 14.760443585950327,
+    "hrfs_local": 33.21185306088031,
+    "mpjpe": 33.91633912876418,
+    "rmse": 23.747540995634004,
+    "constant_hrfs": 17.76303809611533,
+    "elapsed_seconds": 7.880035184999997
+  },
+  "selected_ensemble_development": {
+    "wrist": 45.96611968540679,
+    "pose": 52.281142634646756,
+    "bone": 81.61332041322271,
+    "motion": 29.961850423680033,
+    "hrfs_local": 48.82625774392927,
+    "mpjpe": 21.415894349841793,
+    "rmse": 16.015938757961113
+  },
+  "fixed_ensemble_confirmation": {
+    "wrist": 46.543469272694836,
+    "pose": 52.41574437807276,
+    "bone": 81.74502874989358,
+    "motion": 30.353392820093184,
+    "hrfs_local": 49.14062143278575,
+    "mpjpe": 20.73538497945293,
+    "rmse": 15.019088375801937
+  },
+  "members": [
+    "shrink_adapter",
+    "shrink_seed7",
+    "shared_no_adapter"
+  ],
+  "weights": [
+    0.3333333333333333,
+    0.3333333333333333,
+    0.3333333333333333
+  ],
+  "sigma": 1,
+  "bone_strength": 0.5,
+  "limitations": [
+    "Local HRFS reproduction, not an official leaderboard score.",
+    "Development split used for architecture and checkpoint selection.",
+    "Confirmation uses fixed final epochs and weights; it is an alternate split of the same held-in dataset, not a new independent dataset.",
+    "Published condition and event metadata plus symmetric smoothing make the complete pipeline offline."
+  ]
+}
