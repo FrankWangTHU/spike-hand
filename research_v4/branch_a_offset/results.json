@@ -1,0 +1,234 @@
+{
+  "status": "completed_no_improved_candidate",
+  "submissions_used": 0,
+  "split": 42,
+  "selection": {
+    "oof_trials": 401,
+    "calibration_trials": 400,
+    "choices": [
+      {
+        "kind": "group",
+        "alpha": 100.0,
+        "strength": 0.0,
+        "inner_error": 25.43521422371081
+      },
+      {
+        "kind": "metadata",
+        "alpha": 1000.0,
+        "strength": 0.25,
+        "inner_error": 25.40305488503862
+      },
+      {
+        "kind": "neural",
+        "alpha": 10.0,
+        "strength": 0.0,
+        "inner_error": 25.43521422371081
+      }
+    ],
+    "selection_uses_outer_labels": false,
+    "half_overlap": 0.2
+  },
+  "baseline": {
+    "wrist": 50.098587356284966,
+    "pose": 55.65550850087281,
+    "bone": 82.3935037776105,
+    "motion": 33.83433228859626,
+    "hrfs_local": 52.23365738873004,
+    "mpjpe": 19.086365263886794,
+    "rmse": 14.14061344086648
+  },
+  "baseline_phases": {
+    "pre_ton": {
+      "wrist_error": 26.482767224449013,
+      "pose_error": 13.673655772114557,
+      "fraction": 0.1524578262167266
+    },
+    "pre_go": {
+      "wrist_error": 15.384695137050889,
+      "pose_error": 8.780691993198698,
+      "fraction": 0.548202750566954
+    },
+    "execution": {
+      "wrist_error": 11.452433798984874,
+      "pose_error": 8.599396614801316,
+      "fraction": 0.14228542105608408
+    },
+    "post_reward": {
+      "wrist_error": 11.441299013590056,
+      "pose_error": 8.59272379042137,
+      "fraction": 0.15795530975631075
+    },
+    "first10": {
+      "wrist_error": 31.17807226193803,
+      "pose_error": 15.622013385101914,
+      "fraction": 0.03903899882769206
+    },
+    "pre_ton_after10": {
+      "wrist_error": 23.143750515081106,
+      "pose_error": 11.780187773413601,
+      "fraction": 0.11601794353749786
+    }
+  },
+  "candidates": [
+    {
+      "kind": "group",
+      "alpha": 100.0,
+      "strength": 0.0,
+      "inner_error": 25.43521422371081,
+      "mean": {
+        "wrist": 50.098587356284966,
+        "pose": 55.65550850087281,
+        "bone": 82.3935037776105,
+        "motion": 33.83433228859626,
+        "hrfs_local": 52.23365738873004,
+        "mpjpe": 19.086365263886794,
+        "rmse": 14.14061344086648
+      },
+      "phases": {
+        "pre_ton": {
+          "wrist_error": 26.482767224449013,
+          "pose_error": 13.673655772114557,
+          "fraction": 0.1524578262167266
+        },
+        "pre_go": {
+          "wrist_error": 15.384695137050889,
+          "pose_error": 8.780691993198698,
+          "fraction": 0.548202750566954
+        },
+        "execution": {
+          "wrist_error": 11.452433798984874,
+          "pose_error": 8.599396614801316,
+          "fraction": 0.14228542105608408
+        },
+        "post_reward": {
+          "wrist_error": 11.441299013590056,
+          "pose_error": 8.59272379042137,
+          "fraction": 0.15795530975631075
+        },
+        "first10": {
+          "wrist_error": 31.17807226193803,
+          "pose_error": 15.622013385101914,
+          "fraction": 0.03903899882769206
+        },
+        "pre_ton_after10": {
+          "wrist_error": 23.143750515081106,
+          "pose_error": 11.780187773413601,
+          "fraction": 0.11601794353749786
+        }
+      },
+      "delta_vs_a3": 0.0,
+      "sessions_improved_vs_a3": 0,
+      "descriptive_session_bootstrap95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "kind": "metadata",
+      "alpha": 1000.0,
+      "strength": 0.25,
+      "inner_error": 25.40305488503862,
+      "mean": {
+        "wrist": 50.08864301624189,
+        "pose": 55.65550847610884,
+        "bone": 82.39350377444006,
+        "motion": 33.83433229501901,
+        "hrfs_local": 52.230895063495986,
+        "mpjpe": 19.087048903189476,
+        "rmse": 14.138217066256658
+      },
+      "phases": {
+        "pre_ton": {
+          "wrist_error": 26.46832645556993,
+          "pose_error": 13.67365572327659,
+          "fraction": 0.1524578262167266
+        },
+        "pre_go": {
+          "wrist_error": 15.384707672894,
+          "pose_error": 8.780692002990891,
+          "fraction": 0.548202750566954
+        },
+        "execution": {
+          "wrist_error": 11.452433798984874,
+          "pose_error": 8.599396614801316,
+          "fraction": 0.14228542105608408
+        },
+        "post_reward": {
+          "wrist_error": 11.441299013590056,
+          "pose_error": 8.59272379042137,
+          "fraction": 0.15795530975631075
+        },
+        "first10": {
+          "wrist_error": 31.148372116509886,
+          "pose_error": 15.622013439233342,
+          "fraction": 0.03903899882769206
+        },
+        "pre_ton_after10": {
+          "wrist_error": 23.13516003316594,
+          "pose_error": 11.780187830082955,
+          "fraction": 0.11601794353749786
+        }
+      },
+      "delta_vs_a3": -0.002762325234053975,
+      "sessions_improved_vs_a3": 10,
+      "descriptive_session_bootstrap95": [
+        -0.010050474892232826,
+        0.003684727798884571
+      ]
+    },
+    {
+      "kind": "neural",
+      "alpha": 10.0,
+      "strength": 0.0,
+      "inner_error": 25.43521422371081,
+      "mean": {
+        "wrist": 50.098587356284966,
+        "pose": 55.65550850087281,
+        "bone": 82.3935037776105,
+        "motion": 33.83433228859626,
+        "hrfs_local": 52.23365738873004,
+        "mpjpe": 19.086365263886794,
+        "rmse": 14.14061344086648
+      },
+      "phases": {
+        "pre_ton": {
+          "wrist_error": 26.482767224449013,
+          "pose_error": 13.673655772114557,
+          "fraction": 0.1524578262167266
+        },
+        "pre_go": {
+          "wrist_error": 15.384695137050889,
+          "pose_error": 8.780691993198698,
+          "fraction": 0.548202750566954
+        },
+        "execution": {
+          "wrist_error": 11.452433798984874,
+          "pose_error": 8.599396614801316,
+          "fraction": 0.14228542105608408
+        },
+        "post_reward": {
+          "wrist_error": 11.441299013590056,
+          "pose_error": 8.59272379042137,
+          "fraction": 0.15795530975631075
+        },
+        "first10": {
+          "wrist_error": 31.17807226193803,
+          "pose_error": 15.622013385101914,
+          "fraction": 0.03903899882769206
+        },
+        "pre_ton_after10": {
+          "wrist_error": 23.143750515081106,
+          "pose_error": 11.780187773413601,
+          "fraction": 0.11601794353749786
+        }
+      },
+      "delta_vs_a3": 0.0,
+      "sessions_improved_vs_a3": 0,
+      "descriptive_session_bootstrap95": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "development_gate_passed": []
+}

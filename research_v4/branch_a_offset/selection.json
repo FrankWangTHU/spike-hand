@@ -1,0 +1,26 @@
+{
+  "oof_trials": 401,
+  "calibration_trials": 400,
+  "choices": [
+    {
+      "kind": "group",
+      "alpha": 100.0,
+      "strength": 0.0,
+      "inner_error": 25.43521422371081
+    },
+    {
+      "kind": "metadata",
+      "alpha": 1000.0,
+      "strength": 0.25,
+      "inner_error": 25.40305488503862
+    },
+    {
+      "kind": "neural",
+      "alpha": 10.0,
+      "strength": 0.0,
+      "inner_error": 25.43521422371081
+    }
+  ],
+  "selection_uses_outer_labels": false,
+  "half_overlap": 0.2
+}

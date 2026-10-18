@@ -1,0 +1,9 @@
+{
+  "improved_sessions": 15,
+  "mean_gain": 0.3638366525498089,
+  "descriptive_session_bootstrap95": [
+    0.1838378638015467,
+    0.5617556260751468
+  ],
+  "caveat": "Descriptive only; checkpoint and blending selection bias is not corrected."
+}

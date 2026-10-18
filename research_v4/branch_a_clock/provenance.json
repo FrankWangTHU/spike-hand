@@ -1,0 +1,10 @@
+{
+  "source_files": {
+    "train.py": "1a1dbf16dfe38a6bb27b3a1c60b69995c9d79b249cc3de80b1157d9988010ca6",
+    "runtime/model.py": "58823c7f25b43d29fd590d989f1e53bfccdb10f7c3605b346e708da513962d54",
+    "run_clock.py": "5e0de739e95f7c988d08a6602d547d173c67428af593befe83f08ce18f42a667",
+    "evaluate_branch.py": "fc26fc07fb779a3f4dfce0d7347d2bc1870598f402073ef3da70c2e86e9b63ca"
+  },
+  "initial_checkpoint_sha256": "24f7758822264ede9fef9ab7f770b49d0dfe736046abc0268104fcef27a48844",
+  "platform_submissions_used": 0
+}

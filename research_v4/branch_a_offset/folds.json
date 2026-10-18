@@ -1,0 +1,1571 @@
+[
+  {
+    "2026051402": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_011.npz",
+        "trial_016.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_021.npz",
+        "trial_022.npz",
+        "trial_025.npz",
+        "trial_027.npz",
+        "trial_032.npz",
+        "trial_033.npz",
+        "trial_035.npz",
+        "trial_037.npz",
+        "trial_038.npz"
+      ],
+      "validation": [
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_013.npz",
+        "trial_018.npz",
+        "trial_026.npz",
+        "trial_028.npz",
+        "trial_030.npz",
+        "trial_034.npz"
+      ]
+    },
+    "2026051501": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_007.npz",
+        "trial_010.npz",
+        "trial_013.npz",
+        "trial_016.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_021.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_028.npz",
+        "trial_030.npz"
+      ],
+      "validation": [
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_012.npz",
+        "trial_014.npz",
+        "trial_029.npz",
+        "trial_031.npz"
+      ]
+    },
+    "2026051502": {
+      "train": [
+        "trial_002.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_011.npz",
+        "trial_016.npz",
+        "trial_017.npz",
+        "trial_019.npz",
+        "trial_024.npz",
+        "trial_026.npz",
+        "trial_028.npz",
+        "trial_029.npz",
+        "trial_032.npz",
+        "trial_033.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_012.npz",
+        "trial_014.npz",
+        "trial_015.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_025.npz",
+        "trial_030.npz"
+      ]
+    },
+    "2026051801": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_005.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_014.npz",
+        "trial_016.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_021.npz",
+        "trial_022.npz",
+        "trial_027.npz",
+        "trial_029.npz"
+      ],
+      "validation": [
+        "trial_008.npz",
+        "trial_012.npz",
+        "trial_017.npz",
+        "trial_025.npz",
+        "trial_026.npz"
+      ]
+    },
+    "2026051802": {
+      "train": [
+        "trial_003.npz",
+        "trial_005.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_013.npz",
+        "trial_017.npz",
+        "trial_019.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_026.npz"
+      ],
+      "validation": [
+        "trial_002.npz",
+        "trial_007.npz",
+        "trial_014.npz",
+        "trial_018.npz",
+        "trial_022.npz"
+      ]
+    },
+    "2026051901": {
+      "train": [
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_011.npz",
+        "trial_015.npz",
+        "trial_017.npz",
+        "trial_020.npz",
+        "trial_021.npz",
+        "trial_023.npz"
+      ],
+      "validation": [
+        "trial_010.npz",
+        "trial_018.npz",
+        "trial_019.npz"
+      ]
+    },
+    "2026051902": {
+      "train": [
+        "trial_006.npz",
+        "trial_011.npz",
+        "trial_013.npz",
+        "trial_015.npz",
+        "trial_016.npz",
+        "trial_018.npz",
+        "trial_019.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_005.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_012.npz",
+        "trial_017.npz"
+      ]
+    },
+    "2026052701": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_005.npz",
+        "trial_013.npz",
+        "trial_017.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_021.npz",
+        "trial_023.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_029.npz",
+        "trial_030.npz",
+        "trial_031.npz"
+      ],
+      "validation": [
+        "trial_004.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_012.npz",
+        "trial_018.npz"
+      ]
+    },
+    "2026052802": {
+      "train": [
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_007.npz",
+        "trial_010.npz",
+        "trial_012.npz",
+        "trial_014.npz",
+        "trial_015.npz",
+        "trial_018.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_026.npz",
+        "trial_029.npz"
+      ],
+      "validation": [
+        "trial_011.npz",
+        "trial_013.npz",
+        "trial_016.npz",
+        "trial_019.npz",
+        "trial_025.npz",
+        "trial_028.npz"
+      ]
+    },
+    "2026060201": {
+      "train": [
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_007.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_015.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_021.npz",
+        "trial_023.npz",
+        "trial_027.npz",
+        "trial_028.npz"
+      ],
+      "validation": [
+        "trial_002.npz",
+        "trial_006.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_014.npz",
+        "trial_017.npz"
+      ]
+    },
+    "2026060202": {
+      "train": [
+        "trial_001.npz",
+        "trial_004.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_017.npz",
+        "trial_019.npz",
+        "trial_022.npz",
+        "trial_024.npz"
+      ],
+      "validation": [
+        "trial_002.npz",
+        "trial_006.npz",
+        "trial_009.npz",
+        "trial_013.npz",
+        "trial_016.npz",
+        "trial_018.npz"
+      ]
+    },
+    "2026060301": {
+      "train": [
+        "trial_001.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_015.npz",
+        "trial_018.npz",
+        "trial_021.npz",
+        "trial_022.npz",
+        "trial_025.npz"
+      ],
+      "validation": [
+        "trial_008.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_016.npz",
+        "trial_020.npz",
+        "trial_023.npz"
+      ]
+    },
+    "2026060302": {
+      "train": [
+        "trial_003.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_015.npz",
+        "trial_016.npz",
+        "trial_019.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_026.npz",
+        "trial_027.npz",
+        "trial_029.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_010.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_025.npz"
+      ]
+    },
+    "2026060401": {
+      "train": [
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_010.npz",
+        "trial_012.npz",
+        "trial_014.npz",
+        "trial_015.npz",
+        "trial_016.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_020.npz",
+        "trial_024.npz",
+        "trial_026.npz",
+        "trial_027.npz"
+      ],
+      "validation": [
+        "trial_004.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_013.npz",
+        "trial_023.npz",
+        "trial_025.npz"
+      ]
+    },
+    "2026060402": {
+      "train": [
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_016.npz",
+        "trial_018.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_027.npz",
+        "trial_028.npz",
+        "trial_030.npz"
+      ],
+      "validation": [
+        "trial_005.npz",
+        "trial_009.npz",
+        "trial_014.npz",
+        "trial_017.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_031.npz",
+        "trial_032.npz"
+      ]
+    },
+    "2026060501": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_010.npz",
+        "trial_011.npz"
+      ],
+      "validation": [
+        "trial_009.npz",
+        "trial_013.npz"
+      ]
+    },
+    "2026060502": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_011.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_024.npz",
+        "trial_030.npz"
+      ],
+      "validation": [
+        "trial_006.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_014.npz",
+        "trial_019.npz",
+        "trial_023.npz",
+        "trial_027.npz",
+        "trial_028.npz"
+      ]
+    },
+    "2026060901": {
+      "train": [
+        "trial_003.npz",
+        "trial_005.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_015.npz",
+        "trial_019.npz",
+        "trial_021.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_028.npz"
+      ],
+      "validation": [
+        "trial_004.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_016.npz",
+        "trial_026.npz",
+        "trial_027.npz"
+      ]
+    },
+    "2026060902": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_015.npz",
+        "trial_016.npz",
+        "trial_017.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_026.npz",
+        "trial_029.npz"
+      ],
+      "validation": [
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_025.npz",
+        "trial_027.npz",
+        "trial_030.npz",
+        "trial_031.npz"
+      ]
+    },
+    "2026061001": {
+      "train": [
+        "trial_001.npz",
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_015.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_029.npz",
+        "trial_035.npz"
+      ],
+      "validation": [
+        "trial_002.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_020.npz",
+        "trial_021.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_033.npz",
+        "trial_034.npz"
+      ]
+    }
+  },
+  {
+    "2026051402": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_013.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_026.npz",
+        "trial_027.npz",
+        "trial_028.npz",
+        "trial_030.npz",
+        "trial_033.npz",
+        "trial_034.npz"
+      ],
+      "validation": [
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_016.npz",
+        "trial_021.npz",
+        "trial_022.npz",
+        "trial_025.npz",
+        "trial_032.npz",
+        "trial_035.npz",
+        "trial_037.npz",
+        "trial_038.npz"
+      ]
+    },
+    "2026051501": {
+      "train": [
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_019.npz",
+        "trial_021.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_028.npz",
+        "trial_029.npz",
+        "trial_030.npz",
+        "trial_031.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_007.npz",
+        "trial_010.npz",
+        "trial_016.npz",
+        "trial_020.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_026.npz"
+      ]
+    },
+    "2026051502": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_008.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_014.npz",
+        "trial_015.npz",
+        "trial_016.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_028.npz",
+        "trial_030.npz",
+        "trial_032.npz",
+        "trial_033.npz"
+      ],
+      "validation": [
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_017.npz",
+        "trial_019.npz",
+        "trial_024.npz",
+        "trial_029.npz"
+      ]
+    },
+    "2026051801": {
+      "train": [
+        "trial_003.npz",
+        "trial_008.npz",
+        "trial_012.npz",
+        "trial_016.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_027.npz",
+        "trial_029.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_005.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_014.npz",
+        "trial_021.npz"
+      ]
+    },
+    "2026051802": {
+      "train": [
+        "trial_002.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_014.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_022.npz",
+        "trial_024.npz"
+      ],
+      "validation": [
+        "trial_003.npz",
+        "trial_005.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_013.npz",
+        "trial_019.npz",
+        "trial_025.npz",
+        "trial_026.npz"
+      ]
+    },
+    "2026051901": {
+      "train": [
+        "trial_002.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_015.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_021.npz",
+        "trial_023.npz"
+      ],
+      "validation": [
+        "trial_003.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_011.npz",
+        "trial_020.npz"
+      ]
+    },
+    "2026051902": {
+      "train": [
+        "trial_001.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_015.npz",
+        "trial_016.npz",
+        "trial_017.npz"
+      ],
+      "validation": [
+        "trial_018.npz",
+        "trial_019.npz"
+      ]
+    },
+    "2026052701": {
+      "train": [
+        "trial_004.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_018.npz",
+        "trial_020.npz",
+        "trial_023.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_029.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_005.npz",
+        "trial_017.npz",
+        "trial_019.npz",
+        "trial_021.npz",
+        "trial_030.npz",
+        "trial_031.npz"
+      ]
+    },
+    "2026052802": {
+      "train": [
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_016.npz",
+        "trial_019.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_028.npz"
+      ],
+      "validation": [
+        "trial_003.npz",
+        "trial_007.npz",
+        "trial_010.npz",
+        "trial_015.npz",
+        "trial_018.npz",
+        "trial_020.npz",
+        "trial_029.npz"
+      ]
+    },
+    "2026060201": {
+      "train": [
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_006.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_014.npz",
+        "trial_017.npz",
+        "trial_021.npz",
+        "trial_028.npz"
+      ],
+      "validation": [
+        "trial_004.npz",
+        "trial_007.npz",
+        "trial_015.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_023.npz",
+        "trial_027.npz"
+      ]
+    },
+    "2026060202": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_006.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_016.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_022.npz",
+        "trial_024.npz"
+      ],
+      "validation": [
+        "trial_007.npz",
+        "trial_010.npz",
+        "trial_011.npz"
+      ]
+    },
+    "2026060301": {
+      "train": [
+        "trial_001.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_015.npz",
+        "trial_016.npz",
+        "trial_018.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_023.npz"
+      ],
+      "validation": [
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_021.npz",
+        "trial_025.npz"
+      ]
+    },
+    "2026060302": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_016.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_027.npz",
+        "trial_029.npz"
+      ],
+      "validation": [
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_009.npz",
+        "trial_015.npz",
+        "trial_022.npz",
+        "trial_023.npz"
+      ]
+    },
+    "2026060401": {
+      "train": [
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_015.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_023.npz",
+        "trial_025.npz",
+        "trial_026.npz"
+      ],
+      "validation": [
+        "trial_002.npz",
+        "trial_010.npz",
+        "trial_014.npz",
+        "trial_016.npz",
+        "trial_020.npz",
+        "trial_024.npz",
+        "trial_027.npz"
+      ]
+    },
+    "2026060402": {
+      "train": [
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_014.npz",
+        "trial_017.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_030.npz",
+        "trial_031.npz",
+        "trial_032.npz"
+      ],
+      "validation": [
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_016.npz",
+        "trial_018.npz",
+        "trial_027.npz",
+        "trial_028.npz"
+      ]
+    },
+    "2026060501": {
+      "train": [
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_013.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_006.npz",
+        "trial_011.npz"
+      ]
+    },
+    "2026060502": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_006.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_014.npz",
+        "trial_017.npz",
+        "trial_019.npz",
+        "trial_023.npz",
+        "trial_027.npz",
+        "trial_028.npz"
+      ],
+      "validation": [
+        "trial_003.npz",
+        "trial_007.npz",
+        "trial_018.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_024.npz",
+        "trial_030.npz"
+      ]
+    },
+    "2026060901": {
+      "train": [
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_015.npz",
+        "trial_016.npz",
+        "trial_021.npz",
+        "trial_024.npz",
+        "trial_026.npz",
+        "trial_027.npz",
+        "trial_028.npz"
+      ],
+      "validation": [
+        "trial_003.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_019.npz",
+        "trial_025.npz"
+      ]
+    },
+    "2026060902": {
+      "train": [
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_017.npz",
+        "trial_023.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_027.npz",
+        "trial_029.npz",
+        "trial_030.npz",
+        "trial_031.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_015.npz",
+        "trial_016.npz",
+        "trial_020.npz",
+        "trial_022.npz"
+      ]
+    },
+    "2026061001": {
+      "train": [
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_007.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_015.npz",
+        "trial_017.npz",
+        "trial_020.npz",
+        "trial_021.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_024.npz",
+        "trial_033.npz",
+        "trial_034.npz",
+        "trial_035.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_006.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_018.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_029.npz"
+      ]
+    }
+  },
+  {
+    "2026051402": {
+      "train": [
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_013.npz",
+        "trial_016.npz",
+        "trial_018.npz",
+        "trial_021.npz",
+        "trial_022.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_028.npz",
+        "trial_030.npz",
+        "trial_032.npz",
+        "trial_034.npz",
+        "trial_035.npz",
+        "trial_037.npz",
+        "trial_038.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_011.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_027.npz",
+        "trial_033.npz"
+      ]
+    },
+    "2026051501": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_010.npz",
+        "trial_012.npz",
+        "trial_014.npz",
+        "trial_016.npz",
+        "trial_020.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_029.npz",
+        "trial_031.npz"
+      ],
+      "validation": [
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_013.npz",
+        "trial_019.npz",
+        "trial_021.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_028.npz",
+        "trial_030.npz"
+      ]
+    },
+    "2026051502": {
+      "train": [
+        "trial_001.npz",
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_012.npz",
+        "trial_014.npz",
+        "trial_015.npz",
+        "trial_017.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_029.npz",
+        "trial_030.npz"
+      ],
+      "validation": [
+        "trial_002.npz",
+        "trial_008.npz",
+        "trial_011.npz",
+        "trial_016.npz",
+        "trial_026.npz",
+        "trial_028.npz",
+        "trial_032.npz",
+        "trial_033.npz"
+      ]
+    },
+    "2026051801": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_005.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_012.npz",
+        "trial_014.npz",
+        "trial_017.npz",
+        "trial_021.npz",
+        "trial_025.npz",
+        "trial_026.npz"
+      ],
+      "validation": [
+        "trial_003.npz",
+        "trial_016.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_027.npz",
+        "trial_029.npz"
+      ]
+    },
+    "2026051802": {
+      "train": [
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_005.npz",
+        "trial_007.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_022.npz",
+        "trial_025.npz",
+        "trial_026.npz"
+      ],
+      "validation": [
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_017.npz",
+        "trial_024.npz"
+      ]
+    },
+    "2026051901": {
+      "train": [
+        "trial_003.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_020.npz"
+      ],
+      "validation": [
+        "trial_002.npz",
+        "trial_008.npz",
+        "trial_015.npz",
+        "trial_017.npz",
+        "trial_021.npz",
+        "trial_023.npz"
+      ]
+    },
+    "2026051902": {
+      "train": [
+        "trial_001.npz",
+        "trial_005.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_012.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_019.npz"
+      ],
+      "validation": [
+        "trial_006.npz",
+        "trial_011.npz",
+        "trial_013.npz",
+        "trial_015.npz",
+        "trial_016.npz"
+      ]
+    },
+    "2026052701": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_012.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_021.npz",
+        "trial_030.npz",
+        "trial_031.npz"
+      ],
+      "validation": [
+        "trial_013.npz",
+        "trial_020.npz",
+        "trial_023.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_029.npz"
+      ]
+    },
+    "2026052802": {
+      "train": [
+        "trial_003.npz",
+        "trial_007.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_013.npz",
+        "trial_015.npz",
+        "trial_016.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_025.npz",
+        "trial_028.npz",
+        "trial_029.npz"
+      ],
+      "validation": [
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_012.npz",
+        "trial_014.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_026.npz"
+      ]
+    },
+    "2026060201": {
+      "train": [
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_014.npz",
+        "trial_015.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_023.npz",
+        "trial_027.npz"
+      ],
+      "validation": [
+        "trial_003.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_021.npz",
+        "trial_028.npz"
+      ]
+    },
+    "2026060202": {
+      "train": [
+        "trial_002.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_013.npz",
+        "trial_016.npz",
+        "trial_018.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_004.npz",
+        "trial_008.npz",
+        "trial_012.npz",
+        "trial_017.npz",
+        "trial_019.npz",
+        "trial_022.npz",
+        "trial_024.npz"
+      ]
+    },
+    "2026060301": {
+      "train": [
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_016.npz",
+        "trial_020.npz",
+        "trial_021.npz",
+        "trial_023.npz",
+        "trial_025.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_015.npz",
+        "trial_018.npz",
+        "trial_022.npz"
+      ]
+    },
+    "2026060302": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_015.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_025.npz"
+      ],
+      "validation": [
+        "trial_003.npz",
+        "trial_007.npz",
+        "trial_008.npz",
+        "trial_016.npz",
+        "trial_019.npz",
+        "trial_026.npz",
+        "trial_027.npz",
+        "trial_029.npz"
+      ]
+    },
+    "2026060401": {
+      "train": [
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_010.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_016.npz",
+        "trial_020.npz",
+        "trial_023.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_027.npz"
+      ],
+      "validation": [
+        "trial_003.npz",
+        "trial_012.npz",
+        "trial_015.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_026.npz"
+      ]
+    },
+    "2026060402": {
+      "train": [
+        "trial_002.npz",
+        "trial_003.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_016.npz",
+        "trial_017.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_027.npz",
+        "trial_028.npz",
+        "trial_031.npz",
+        "trial_032.npz"
+      ],
+      "validation": [
+        "trial_004.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_024.npz",
+        "trial_025.npz",
+        "trial_030.npz"
+      ]
+    },
+    "2026060501": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_006.npz",
+        "trial_009.npz",
+        "trial_011.npz",
+        "trial_013.npz"
+      ],
+      "validation": [
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_010.npz"
+      ]
+    },
+    "2026060502": {
+      "train": [
+        "trial_003.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_014.npz",
+        "trial_018.npz",
+        "trial_019.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_024.npz",
+        "trial_027.npz",
+        "trial_028.npz",
+        "trial_030.npz"
+      ],
+      "validation": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_008.npz",
+        "trial_011.npz",
+        "trial_017.npz"
+      ]
+    },
+    "2026060901": {
+      "train": [
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_006.npz",
+        "trial_007.npz",
+        "trial_009.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_016.npz",
+        "trial_019.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_027.npz"
+      ],
+      "validation": [
+        "trial_005.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_015.npz",
+        "trial_021.npz",
+        "trial_024.npz",
+        "trial_028.npz"
+      ]
+    },
+    "2026060902": {
+      "train": [
+        "trial_001.npz",
+        "trial_005.npz",
+        "trial_006.npz",
+        "trial_008.npz",
+        "trial_009.npz",
+        "trial_010.npz",
+        "trial_015.npz",
+        "trial_016.npz",
+        "trial_020.npz",
+        "trial_022.npz",
+        "trial_025.npz",
+        "trial_027.npz",
+        "trial_030.npz",
+        "trial_031.npz"
+      ],
+      "validation": [
+        "trial_002.npz",
+        "trial_004.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_017.npz",
+        "trial_023.npz",
+        "trial_026.npz",
+        "trial_029.npz"
+      ]
+    },
+    "2026061001": {
+      "train": [
+        "trial_001.npz",
+        "trial_002.npz",
+        "trial_006.npz",
+        "trial_008.npz",
+        "trial_010.npz",
+        "trial_011.npz",
+        "trial_012.npz",
+        "trial_013.npz",
+        "trial_014.npz",
+        "trial_018.npz",
+        "trial_020.npz",
+        "trial_021.npz",
+        "trial_022.npz",
+        "trial_023.npz",
+        "trial_025.npz",
+        "trial_026.npz",
+        "trial_029.npz",
+        "trial_033.npz",
+        "trial_034.npz"
+      ],
+      "validation": [
+        "trial_003.npz",
+        "trial_004.npz",
+        "trial_005.npz",
+        "trial_007.npz",
+        "trial_015.npz",
+        "trial_017.npz",
+        "trial_024.npz",
+        "trial_035.npz"
+      ]
+    }
+  }
+]

@@ -1,0 +1,165 @@
+{
+  "mean": {
+    "wrist": 49.9615854549951,
+    "pose": 55.485943399569166,
+    "bone": 82.404240664738,
+    "motion": 33.55997825930616,
+    "hrfs_local": 52.069884746592244,
+    "mpjpe": 19.22552890510147,
+    "rmse": 14.191407121411334,
+    "wrist_error": 15.714029261102777,
+    "pose_error": 9.329137786658277,
+    "velocity_rmse": 115.69424689082386,
+    "velocity_corr": 0.671193956932193,
+    "velocity_exp_score": 0.0002804126965084004,
+    "velocity_corr_score": 33.559697846609645,
+    "velocity_rms_ratio": 0.6823633220175135,
+    "wrist_constant_offset_norm": 10.909605827134184,
+    "wrist_bias_mse_fraction": 0.3513117773605375,
+    "pose_bias_mse_fraction": 0.2820753484507397,
+    "pose_lowpass_error_energy_ratio": 0.8384150027795986,
+    "smoothed_velocity_corr": 0.8503950141476,
+    "highpass_pose_corr": 0.6668752705671215,
+    "pre_fraction": 0.1515565186206512,
+    "best_oracle_lag": 0.029960317460317458,
+    "pre_wrist_error_share": 0.23907449403454378,
+    "pre_pose_error_share": 0.20454554440574238,
+    "wrist_error_sse_over_template": 0.35970914141870114,
+    "pose_error_sse_over_template": 0.3862647034099561,
+    "same_condition_train_trials": 2.3059920634920634
+  },
+  "phases": {
+    "pre_onset": {
+      "wrist_error": 26.54135972468875,
+      "pose_error": 13.662082758524216,
+      "fraction": 0.1524578262167266,
+      "true_wrist_speed": 225.14787682668413
+    },
+    "action": {
+      "wrist_error": 14.624823623866565,
+      "pose_error": 8.772029432736073,
+      "fraction": 0.690488171623038,
+      "true_wrist_speed": 158.5829895037248
+    },
+    "post_reward": {
+      "wrist_error": 11.695508317312271,
+      "pose_error": 8.699189711658054,
+      "fraction": 0.15795530975631075,
+      "true_wrist_speed": 231.77070637233982
+    }
+  },
+  "fingers": {
+    "Thumb": {
+      "error": 5.865551532006783,
+      "tip_error": 8.761005724452383
+    },
+    "Index": {
+      "error": 10.154833517805427,
+      "tip_error": 13.31649170234343
+    },
+    "Middle": {
+      "error": 10.789443744318529,
+      "tip_error": 14.891235447654214
+    },
+    "Ring": {
+      "error": 10.308088566904152,
+      "tip_error": 14.052167536094561
+    },
+    "Pinky": {
+      "error": 9.527771572256501,
+      "tip_error": 12.422637255488445
+    }
+  },
+  "diagnostic_counterfactuals": {
+    "current": {
+      "wrist": 49.9615854549951,
+      "pose": 55.485943399569166,
+      "bone": 82.404240664738,
+      "motion": 33.55997825930616,
+      "hrfs_local": 52.069884746592244,
+      "mpjpe": 19.22552890510147,
+      "rmse": 14.191407121411334
+    },
+    "latest_v3": {
+      "wrist": 49.70117309860794,
+      "pose": 55.541106951543796,
+      "bone": 82.36538177901491,
+      "motion": 33.78494226939196,
+      "hrfs_local": 52.064674821635776,
+      "mpjpe": 19.296150061603843,
+      "rmse": 14.280779378060213
+    },
+    "oracle_constant_wrist_translation": {
+      "wrist": 59.39127652550714,
+      "pose": 55.485943399569166,
+      "bone": 82.404240664738,
+      "motion": 33.55997825930616,
+      "hrfs_local": 54.689243377290026,
+      "mpjpe": 16.271374021170963,
+      "rmse": 12.209304754566006
+    },
+    "oracle_pre_onset_wrist_translation": {
+      "wrist": 47.67148865512344,
+      "pose": 55.48594339956916,
+      "bone": 82.404240664738,
+      "motion": 33.55997825930616,
+      "hrfs_local": 51.43374674662789,
+      "mpjpe": 24.89428458858269,
+      "rmse": 16.225261277434534
+    },
+    "oracle_perfect_wrist": {
+      "wrist": 100.0,
+      "pose": 55.485943399569166,
+      "bone": 82.404240664738,
+      "motion": 33.55997825930616,
+      "hrfs_local": 65.96944434242695,
+      "mpjpe": 8.88489313015074,
+      "rmse": 6.81466762663328
+    },
+    "oracle_constant_local_shape_offset": {
+      "wrist": 49.9615854549951,
+      "pose": 62.75809267444214,
+      "bone": 76.77154663175585,
+      "motion": 33.55997825930616,
+      "hrfs_local": 54.27208790537814,
+      "mpjpe": 18.56687033568535,
+      "rmse": 13.629467167384462
+    },
+    "oracle_perfect_local_pose": {
+      "wrist": 49.9615854549951,
+      "pose": 100.0,
+      "bone": 100.0,
+      "motion": 100.0,
+      "hrfs_local": 86.1004404041653,
+      "mpjpe": 15.714029261102777,
+      "rmse": 11.206650730852143
+    },
+    "oracle_perfect_pre_onset_all": {
+      "wrist": 58.70820539920417,
+      "pose": 62.44772083233512,
+      "bone": 85.000786724503,
+      "motion": 35.42723714310837,
+      "hrfs_local": 57.910310824655895,
+      "mpjpe": 14.583476457915168,
+      "rmse": 10.993009488729687
+    },
+    "oracle_half_pre_onset_error": {
+      "wrist": 54.02471770312595,
+      "pose": 58.82087165710758,
+      "bone": 82.9629567662032,
+      "motion": 35.887629332730384,
+      "hrfs_local": 55.074784498817266,
+      "mpjpe": 16.904502681508315,
+      "rmse": 12.004128593815583
+    },
+    "train_only_event_template": {
+      "wrist": 25.677904889888158,
+      "pose": 36.7978377745534,
+      "bone": 72.24643868139911,
+      "motion": 13.883114128275338,
+      "hrfs_local": 32.55554015262301,
+      "mpjpe": 39.579841314671214,
+      "rmse": 28.84591951520347
+    }
+  }
+}

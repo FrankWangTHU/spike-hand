@@ -1,0 +1,12 @@
+{
+  "architecture": "denoising temporal convolution",
+  "selected_epoch": 80,
+  "schedule_epochs": 100,
+  "split_seed": 43,
+  "seed": 42,
+  "reference": "v2 fixed three-member confirmation ensemble",
+  "candidate_weight": 0.5,
+  "sigma": 1.0,
+  "bone_strength": 0.5,
+  "reason": "Weight selected only from split42 comparison_v2.json before split43 completion. Strong v3 ensemble has no matched confirmation predictions available for this comparison."
+}

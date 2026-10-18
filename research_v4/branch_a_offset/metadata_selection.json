@@ -1,0 +1,74 @@
+[
+  {
+    "kind": "metadata",
+    "alpha": 10.0,
+    "strength": 0.0,
+    "inner_error": 25.43521422371081
+  },
+  {
+    "kind": "metadata",
+    "alpha": 10.0,
+    "strength": 0.25,
+    "inner_error": 25.730863985793853
+  },
+  {
+    "kind": "metadata",
+    "alpha": 10.0,
+    "strength": 0.5,
+    "inner_error": 26.369096075492628
+  },
+  {
+    "kind": "metadata",
+    "alpha": 10.0,
+    "strength": 1.0,
+    "inner_error": 28.30759991072751
+  },
+  {
+    "kind": "metadata",
+    "alpha": 100.0,
+    "strength": 0.0,
+    "inner_error": 25.43521422371081
+  },
+  {
+    "kind": "metadata",
+    "alpha": 100.0,
+    "strength": 0.25,
+    "inner_error": 25.469949950218897
+  },
+  {
+    "kind": "metadata",
+    "alpha": 100.0,
+    "strength": 0.5,
+    "inner_error": 25.716230457766642
+  },
+  {
+    "kind": "metadata",
+    "alpha": 100.0,
+    "strength": 1.0,
+    "inner_error": 26.744878335261813
+  },
+  {
+    "kind": "metadata",
+    "alpha": 1000.0,
+    "strength": 0.0,
+    "inner_error": 25.43521422371081
+  },
+  {
+    "kind": "metadata",
+    "alpha": 1000.0,
+    "strength": 0.25,
+    "inner_error": 25.40305488503862
+  },
+  {
+    "kind": "metadata",
+    "alpha": 1000.0,
+    "strength": 0.5,
+    "inner_error": 25.509269771365684
+  },
+  {
+    "kind": "metadata",
+    "alpha": 1000.0,
+    "strength": 1.0,
+    "inner_error": 26.100186558797912
+  }
+]

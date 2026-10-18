@@ -1,0 +1,167 @@
+{
+  "platform_baseline_user_report": 54.38719,
+  "local_v3_baseline": 52.06467483592634,
+  "development_split": 42,
+  "platform_submissions_used": 0,
+  "candidates": [
+    {
+      "name": "a1_weight",
+      "epoch": 180,
+      "single_raw": 50.44101039776585,
+      "best_alpha": 0.5,
+      "best_mode": "replace_stacked",
+      "best_blend": 52.116523549671555,
+      "delta": 0.05184872803577889,
+      "sessions_improved": 13,
+      "pre_wrist_delta": 0.02963501925979628,
+      "mean": {
+        "wrist": 49.770209872951696,
+        "pose": 55.58498003823253,
+        "bone": 82.3989185175569,
+        "motion": 33.838419306647026,
+        "hrfs_local": 52.116523549671555,
+        "mpjpe": 19.284207169069624,
+        "rmse": 14.259558118538802
+      },
+      "phases": {
+        "pre_ton": {
+          "wrist_error": 26.76787151289838,
+          "pose_error": 13.739123367965224,
+          "fraction": 0.1524578262167266
+        },
+        "pre_go": {
+          "wrist_error": 15.653564938089204,
+          "pose_error": 8.813578365937111,
+          "fraction": 0.548202750566954
+        },
+        "execution": {
+          "wrist_error": 11.510975717684582,
+          "pose_error": 8.570918617929731,
+          "fraction": 0.14228542105608408
+        },
+        "post_reward": {
+          "wrist_error": 11.357042459977997,
+          "pose_error": 8.544399786080634,
+          "fraction": 0.15795530975631075
+        },
+        "first10": {
+          "wrist_error": 31.404465752570406,
+          "pose_error": 15.648927678044824,
+          "fraction": 0.03903899882769206
+        },
+        "pre_ton_after10": {
+          "wrist_error": 23.42853621791753,
+          "pose_error": 11.827516702151012,
+          "fraction": 0.11601794353749786
+        }
+      }
+    },
+    {
+      "name": "a2_wrist",
+      "epoch": 160,
+      "single_raw": 50.52423095597711,
+      "best_alpha": 1,
+      "best_mode": "replace_stacked",
+      "best_blend": 52.14198913275351,
+      "delta": 0.0773143111177319,
+      "sessions_improved": 9,
+      "pre_wrist_delta": -0.22829856200350562,
+      "mean": {
+        "wrist": 49.946317451945795,
+        "pose": 55.56469696523885,
+        "bone": 82.29554558223093,
+        "motion": 33.82006180217507,
+        "hrfs_local": 52.14198913275351,
+        "mpjpe": 19.146551484959776,
+        "rmse": 14.155596216248046
+      },
+      "phases": {
+        "pre_ton": {
+          "wrist_error": 26.50993793163508,
+          "pose_error": 13.733057698593251,
+          "fraction": 0.1524578262167266
+        },
+        "pre_go": {
+          "wrist_error": 15.534263480078607,
+          "pose_error": 8.821735674403017,
+          "fraction": 0.548202750566954
+        },
+        "execution": {
+          "wrist_error": 11.468818852565594,
+          "pose_error": 8.567330705949239,
+          "fraction": 0.14228542105608408
+        },
+        "post_reward": {
+          "wrist_error": 11.442529091361969,
+          "pose_error": 8.517635494541555,
+          "fraction": 0.15795530975631075
+        },
+        "first10": {
+          "wrist_error": 31.224123009824087,
+          "pose_error": 15.627217147369233,
+          "fraction": 0.03903899882769206
+        },
+        "pre_ton_after10": {
+          "wrist_error": 23.126065248142158,
+          "pose_error": 11.857134366115881,
+          "fraction": 0.11601794353749786
+        }
+      }
+    },
+    {
+      "name": "a3_all",
+      "epoch": 150,
+      "single_raw": 50.79391848911052,
+      "best_alpha": 1,
+      "best_mode": "replace_stacked",
+      "best_blend": 52.23365738873004,
+      "delta": 0.16898256709426107,
+      "sessions_improved": 14,
+      "pre_wrist_delta": -0.2554692691895717,
+      "mean": {
+        "wrist": 50.098587356284966,
+        "pose": 55.65550850087281,
+        "bone": 82.3935037776105,
+        "motion": 33.83433228859626,
+        "hrfs_local": 52.23365738873004,
+        "mpjpe": 19.086365263886794,
+        "rmse": 14.14061344086648
+      },
+      "phases": {
+        "pre_ton": {
+          "wrist_error": 26.482767224449013,
+          "pose_error": 13.673655772114557,
+          "fraction": 0.1524578262167266
+        },
+        "pre_go": {
+          "wrist_error": 15.384695137050889,
+          "pose_error": 8.780691993198698,
+          "fraction": 0.548202750566954
+        },
+        "execution": {
+          "wrist_error": 11.452433798984874,
+          "pose_error": 8.599396614801316,
+          "fraction": 0.14228542105608408
+        },
+        "post_reward": {
+          "wrist_error": 11.441299013590056,
+          "pose_error": 8.59272379042137,
+          "fraction": 0.15795530975631075
+        },
+        "first10": {
+          "wrist_error": 31.17807226193803,
+          "pose_error": 15.622013385101914,
+          "fraction": 0.03903899882769206
+        },
+        "pre_ton_after10": {
+          "wrist_error": 23.143750515081106,
+          "pose_error": 11.780187773413601,
+          "fraction": 0.11601794353749786
+        }
+      }
+    }
+  ],
+  "first_round_complete": true,
+  "development_gate_passed": [],
+  "caveat": "Selected development results only; not platform scores or independent confirmation."
+}

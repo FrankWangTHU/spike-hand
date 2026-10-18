@@ -1,0 +1,26 @@
+[
+  {
+    "kind": "group",
+    "alpha": 100.0,
+    "strength": 0.0,
+    "inner_error": 25.43521422371081
+  },
+  {
+    "kind": "group",
+    "alpha": 100.0,
+    "strength": 0.25,
+    "inner_error": 25.80510724927811
+  },
+  {
+    "kind": "group",
+    "alpha": 100.0,
+    "strength": 0.5,
+    "inner_error": 26.446303568518704
+  },
+  {
+    "kind": "group",
+    "alpha": 100.0,
+    "strength": 1.0,
+    "inner_error": 28.25495339132768
+  }
+]

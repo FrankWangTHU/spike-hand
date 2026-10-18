@@ -1,0 +1,14 @@
+[
+  {
+    "groups": {
+      "v2": [
+        "../baseline_v2/experiments/shrink_adapter/validation_predictions.npz",
+        "../baseline_v2/experiments/shrink_seed7/validation_predictions.npz",
+        "../baseline_v2/experiments/shared_no_adapter/validation_predictions.npz"
+      ]
+    },
+    "group_weights": {
+      "v2": 1.0
+    }
+  }
+]

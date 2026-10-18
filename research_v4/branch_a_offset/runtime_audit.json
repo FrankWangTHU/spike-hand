@@ -1,0 +1,21 @@
+{
+  "oof_coverage": 401,
+  "folds_disjoint_from_outer_validation": true,
+  "runtime": {
+    "group": {
+      "trials": 20,
+      "max_abs_difference": 0.0,
+      "labels_read": false
+    },
+    "metadata": {
+      "trials": 20,
+      "max_abs_difference": 0.0,
+      "labels_read": false
+    },
+    "neural": {
+      "trials": 20,
+      "max_abs_difference": 0.0,
+      "labels_read": false
+    }
+  }
+}

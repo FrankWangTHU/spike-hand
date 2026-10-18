@@ -1,0 +1,19 @@
+{
+  "source_files": {
+    "train.py": "87d0ecac9ae5b603bd8707bb1eb006af4160964469782f3e3d20fe1a15de29f9",
+    "runtime/model.py": "de8aedcc84d197e4d82090d6d9423ce9173672f5e4cd8afc3dfd237df0d7b5e6",
+    "runtime/data.py": "bcf18f16add0166d98e25740e354d082f66558ed74b1ca01b226ab7002a7063a",
+    "metrics.py": "e48cfe88480ef1f46661fa745e5d03d0e3c9c3e7b9a787bf783eed7b59c43a28",
+    "evaluate_branch.py": "7b5af44cd2f1d984140e92c2843a17e89aa9da526931868283d68284b9649afd",
+    "run_experiments.py": "443d88874521af00054af230e8fa4a93591a7b945f79e31665f354f0ab5d33ad"
+  },
+  "platform_baseline_user_report": 54.38719,
+  "platform_submissions_used": 0,
+  "final_analysis_files": {
+    "evaluate_branch.py": "fc26fc07fb779a3f4dfce0d7347d2bc1870598f402073ef3da70c2e86e9b63ca",
+    "audit_checkpoint.py": "b4d2c402a8b3d3dc3fd4befe7a36c1bc65771cea5c0d86ae824346f43d729a4f",
+    "summarize.py": "1b49d72b4cee2b9689adc83a3d48fdb0b8a2d545bcc50452c26ad3078fc1d425"
+  },
+  "baseline_zip_unchanged": "1c4e29a7a62b311e0b8444af5f09bb947b16a86278d39e73390c198eabbd8372",
+  "status": "first_round_complete_no_candidate_passed_development_gate"
+}

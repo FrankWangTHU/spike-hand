@@ -1,0 +1,146 @@
+{
+  "frozen_at": "2026-10-18T10:42:34.727458+08:00",
+  "development_source": "experiments/selected_ensemble.json",
+  "development_score": {
+    "wrist": 49.70117301035236,
+    "pose": 55.54110681390902,
+    "bone": 82.36538184762584,
+    "motion": 33.78494265057437,
+    "hrfs_local": 52.06467483592634,
+    "mpjpe": 19.296150056797273,
+    "rmse": 14.280779367736073
+  },
+  "development_split_seed": 42,
+  "confirmation_split_seed": 43,
+  "sigma": 1.0,
+  "bone_strength": 0.5,
+  "members": [
+    {
+      "group": "v2",
+      "source": "..\\baseline_v2\\experiments\\shrink_adapter",
+      "development_predictions": "../baseline_v2/experiments/shrink_adapter/validation_predictions.npz",
+      "weight": 0.03494911534121008,
+      "new": false,
+      "refit": "../baseline_v2/final/seed42",
+      "confirmation": "../baseline_v2/experiments/confirm_seed43",
+      "selected_epoch": 130,
+      "source_sha256": {
+        "checkpoint.pt": "b7e17930665e5d30fa0266f73dfc19a686ebe40b5c5c6707080638e3610eea5f",
+        "config.json": "2f295c5a25b7fc8288a248e24b07cd218b405d849e71c061b75b300211dff885"
+      }
+    },
+    {
+      "group": "v2",
+      "source": "..\\baseline_v2\\experiments\\shrink_seed7",
+      "development_predictions": "../baseline_v2/experiments/shrink_seed7/validation_predictions.npz",
+      "weight": 0.03494911534121008,
+      "new": false,
+      "refit": "../baseline_v2/final/seed7",
+      "confirmation": "../baseline_v2/experiments/confirm_seed43_seed7",
+      "selected_epoch": 140,
+      "source_sha256": {
+        "checkpoint.pt": "f332d7b7dc83465e25c746ca8c54426eab7ead9dfc65f10851aee99e3d4dc6b7",
+        "config.json": "4699ad95c576d8d69023a3a2acd496f7b6e6aef2e62705a91e9a9af6e5ab3280"
+      }
+    },
+    {
+      "group": "v2",
+      "source": "..\\baseline_v2\\experiments\\shared_no_adapter",
+      "development_predictions": "../baseline_v2/experiments/shared_no_adapter/validation_predictions.npz",
+      "weight": 0.03494911534121008,
+      "new": false,
+      "refit": "../baseline_v2/final/no_adapter",
+      "confirmation": "../baseline_v2/experiments/confirm_seed43_noadapter",
+      "selected_epoch": 180,
+      "source_sha256": {
+        "checkpoint.pt": "52380b20d9104ecee16f3d6260aecbd4228890d2ac17c68a013e94cf2e80883b",
+        "config.json": "4300d84d4c2ba829995cf76a5d82265071c9286db4cfed019ac83e1ef294cc7b"
+      }
+    },
+    {
+      "group": "attention_pca",
+      "source": "experiments\\attention_pca",
+      "development_predictions": "experiments/attention_pca_fp32/validation_predictions.npz",
+      "weight": 0.08450678497668014,
+      "new": true,
+      "refit": "final/attention_pca",
+      "confirmation": "experiments/confirm_v3/attention_pca",
+      "selected_epoch": 100,
+      "source_sha256": {
+        "checkpoint.pt": "7392588a31d38121acfa951e8d4785d9a96cf05863f710bb3366fb9f721a27da",
+        "config.json": "e56210fe8257eec4b42baa6544596135e9453ca091e1f879677ad47ca45d615b"
+      }
+    },
+    {
+      "group": "attention_full",
+      "source": "experiments\\attention_full",
+      "development_predictions": "experiments/attention_full/validation_predictions.npz",
+      "weight": 0.14843112115341947,
+      "new": true,
+      "refit": "final/attention_full",
+      "confirmation": "experiments/confirm_v3/attention_full",
+      "selected_epoch": 150,
+      "source_sha256": {
+        "checkpoint.pt": "680cfe55ec31dd8333f77ee09908f663f8f8946f873404bff4f3513a1cfcca7d",
+        "config.json": "c90f35431dfcb8661cefe5b594e5e9169b51388c1877bfb4154b0a972a5c49b3"
+      }
+    },
+    {
+      "group": "stacked_large",
+      "source": "experiments\\stacked_large",
+      "development_predictions": "experiments/stacked_large/validation_predictions.npz",
+      "weight": 0.35680091831248517,
+      "new": true,
+      "refit": "final/stacked_large",
+      "confirmation": "experiments/confirm_v3/stacked_large",
+      "selected_epoch": 150,
+      "source_sha256": {
+        "checkpoint.pt": "4220c8687015ef140532d5e5831f1c55cffa81c3fce5fbcb79bfc51a974ab25a",
+        "config.json": "bc08c50bd34242639a80e3033f71b656cf701f625c2a29bb7bae0c959c06b739"
+      }
+    },
+    {
+      "group": "attention_large",
+      "source": "experiments\\attention_large",
+      "development_predictions": "experiments/attention_large/validation_predictions.npz",
+      "weight": 0.19633746184314746,
+      "new": true,
+      "refit": "final/attention_large",
+      "confirmation": "experiments/confirm_v3/attention_large",
+      "selected_epoch": 180,
+      "source_sha256": {
+        "checkpoint.pt": "eb933400253acf438af45438191f6cfbec81020e3894bd35536b00d31fd1b46c",
+        "config.json": "5e830732a41760c9dda046c431c3cbf3f98008cd5a6259e04a011d722fbc2179"
+      }
+    },
+    {
+      "group": "recording_clock",
+      "source": "experiments\\recording_clock",
+      "development_predictions": "experiments/recording_clock/validation_predictions.npz",
+      "weight": 0.10907636769063749,
+      "new": true,
+      "refit": "final/recording_clock",
+      "confirmation": "experiments/confirm_v3/recording_clock",
+      "selected_epoch": 150,
+      "source_sha256": {
+        "checkpoint.pt": "ddf1add81f34ebee0b10548f0eb03fbc00c7ab6d0239e9462d9158060f3b9f60",
+        "config.json": "67bcfbd6af3b63879f1f27ca934488706d5e7a8e9bab89b7c2d1f30bf165ffa5"
+      }
+    }
+  ],
+  "code_sha256": {
+    "train.py": "332e7aae9f3e0782ed2e70d36f14942487c9ff931d8c2007dad703bcb2145fc7",
+    "training_utils.py": "8a2ef1343a534915ca9b3f3285dcde143743e04b21ef6d31668abda551676cfc",
+    "metrics.py": "e48cfe88480ef1f46661fa745e5d03d0e3c9c3e7b9a787bf783eed7b59c43a28",
+    "infer.py": "c249eb007e09f158c938df87d7423d757a795b57f11e293f05bcd0e9e3ef5e2c",
+    "package_submission.py": "246e0f4dbe008367a23b3b01c43e494bebf0228e1eec1df87ebfe990e411539b",
+    "retrain_selected.py": "b254b571f5c45029ae31e2c8312336d286c3f22e9ccdb5350f02bd26ec5397f3",
+    "evaluate_predictions.py": "2052bd540fb48bd3e9a974faf1ad2e0fb76968522cbae5969559421ac4663ad7",
+    "finalize_v3.py": "59e299d73faa627affc49918995cbc5d68d5a67586840eed87dbf34abf729823",
+    "runtime\\__init__.py": "fb5304cb4b9c41ac736fd8500ced3ace2501e5492a5d6fcdc381f3c749213b6e",
+    "runtime\\data.py": "bcf18f16add0166d98e25740e354d082f66558ed74b1ca01b226ab7002a7063a",
+    "runtime\\model.py": "798529f8b433c2adb1cb842dc7bf57187f7aa10617acb42444b2315c22b45ca3",
+    "runtime\\postprocess.py": "a8c81a2c9729779abbcba5cffdf808d3836299f4f2dc673446f2805daf3b0291"
+  },
+  "protocol": "No model, epoch, preprocessing or weight tuning on the alternate confirmation split."
+}

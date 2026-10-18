@@ -1,0 +1,74 @@
+[
+  {
+    "kind": "neural",
+    "alpha": 10.0,
+    "strength": 0.0,
+    "inner_error": 25.43521422371081
+  },
+  {
+    "kind": "neural",
+    "alpha": 10.0,
+    "strength": 0.25,
+    "inner_error": 25.863445378182575
+  },
+  {
+    "kind": "neural",
+    "alpha": 10.0,
+    "strength": 0.5,
+    "inner_error": 26.683301716502534
+  },
+  {
+    "kind": "neural",
+    "alpha": 10.0,
+    "strength": 1.0,
+    "inner_error": 29.040037239346645
+  },
+  {
+    "kind": "neural",
+    "alpha": 100.0,
+    "strength": 0.0,
+    "inner_error": 25.43521422371081
+  },
+  {
+    "kind": "neural",
+    "alpha": 100.0,
+    "strength": 0.25,
+    "inner_error": 25.61512256510639
+  },
+  {
+    "kind": "neural",
+    "alpha": 100.0,
+    "strength": 0.5,
+    "inner_error": 26.060269910095194
+  },
+  {
+    "kind": "neural",
+    "alpha": 100.0,
+    "strength": 1.0,
+    "inner_error": 27.530828687098214
+  },
+  {
+    "kind": "neural",
+    "alpha": 1000.0,
+    "strength": 0.0,
+    "inner_error": 25.43521422371081
+  },
+  {
+    "kind": "neural",
+    "alpha": 1000.0,
+    "strength": 0.25,
+    "inner_error": 25.44247594947324
+  },
+  {
+    "kind": "neural",
+    "alpha": 1000.0,
+    "strength": 0.5,
+    "inner_error": 25.59250088737727
+  },
+  {
+    "kind": "neural",
+    "alpha": 1000.0,
+    "strength": 1.0,
+    "inner_error": 26.289410057262472
+  }
+]

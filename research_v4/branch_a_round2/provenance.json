@@ -1,0 +1,18 @@
+{
+  "source_files": {
+    "train.py": "e52d13063422bedb40a3c4f5f109bb136cab867e3f8f01d67fa526fc6f4deca6",
+    "runtime/model.py": "ecb3d5228329e7160fc33d684f77b450827be0a0f9b2567f24ec3ebb7fdce7fd",
+    "runtime/data.py": "bcf18f16add0166d98e25740e354d082f66558ed74b1ca01b226ab7002a7063a",
+    "run_round2.py": "0454ebe89ba2bd31d4c0210c4b038d17e6c101a2cab795e61e05aeab4dadd68d",
+    "evaluate_branch.py": "fc26fc07fb779a3f4dfce0d7347d2bc1870598f402073ef3da70c2e86e9b63ca",
+    "evaluate_phase.py": "52ce35021a680ad0d3b834152e038f4ca0bc7ad505bb82068a643e92800dfe19"
+  },
+  "initial_checkpoint_sha256": "24f7758822264ede9fef9ab7f770b49d0dfe736046abc0268104fcef27a48844",
+  "final_analysis_files": {
+    "evaluate_phase.py": "faea18054e9a24566219f8a6c2b5cab5f7761e160ac32e1699252f5dcb24a55c",
+    "summarize.py": "047c0b4db2b62bb28a9d8837e318da4a9d7ed459bcaf2913e8ec7df95e557eb1",
+    "audit_checkpoint.py": "b4d2c402a8b3d3dc3fd4befe7a36c1bc65771cea5c0d86ae824346f43d729a4f",
+    "train_with_last.py": "53b15513c10e4332dc5356ad2bdc6ff98409d4107b50805cabdac2f17590516c"
+  },
+  "frozen_v3_and_initial_A3_verified_unchanged": true
+}

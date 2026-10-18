@@ -1,0 +1,14 @@
+[
+  {
+    "groups": {
+      "v2": [
+        "../baseline_v2/experiments/confirm_seed43/validation_predictions.npz",
+        "../baseline_v2/experiments/confirm_seed43_seed7/validation_predictions.npz",
+        "../baseline_v2/experiments/confirm_seed43_noadapter/validation_predictions.npz"
+      ]
+    },
+    "group_weights": {
+      "v2": 1.0
+    }
+  }
+]
