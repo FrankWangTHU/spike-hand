@@ -1,0 +1,112 @@
+{
+  "left": "selftest_gpu_torch211",
+  "right": "selftest_cpu",
+  "zip_sha256": "1c4e29a7a62b311e0b8444af5f09bb947b16a86278d39e73390c198eabbd8372",
+  "atol": 0.01,
+  "rtol": 0.0001,
+  "passed": true,
+  "max_absolute_difference": 0.005767822265625,
+  "mean_absolute_difference": 0.00035896282128591856,
+  "sessions": [
+    {
+      "session": "2026051402_pred.h5",
+      "max_absolute_difference": 0.0033416748046875,
+      "mean_absolute_difference": 0.0003386934334831498
+    },
+    {
+      "session": "2026051501_pred.h5",
+      "max_absolute_difference": 0.00501251220703125,
+      "mean_absolute_difference": 0.00045524408435048915
+    },
+    {
+      "session": "2026051502_pred.h5",
+      "max_absolute_difference": 0.00521087646484375,
+      "mean_absolute_difference": 0.0002762755479439669
+    },
+    {
+      "session": "2026051801_pred.h5",
+      "max_absolute_difference": 0.0048065185546875,
+      "mean_absolute_difference": 0.00045233050589534203
+    },
+    {
+      "session": "2026051802_pred.h5",
+      "max_absolute_difference": 0.004215240478515625,
+      "mean_absolute_difference": 0.0003090750114401835
+    },
+    {
+      "session": "2026051901_pred.h5",
+      "max_absolute_difference": 0.00301361083984375,
+      "mean_absolute_difference": 0.0003467418606359248
+    },
+    {
+      "session": "2026051902_pred.h5",
+      "max_absolute_difference": 0.00525665283203125,
+      "mean_absolute_difference": 0.0004699540206794474
+    },
+    {
+      "session": "2026052701_pred.h5",
+      "max_absolute_difference": 0.005767822265625,
+      "mean_absolute_difference": 0.0003119120835434641
+    },
+    {
+      "session": "2026052802_pred.h5",
+      "max_absolute_difference": 0.00335693359375,
+      "mean_absolute_difference": 0.00033555988939917787
+    },
+    {
+      "session": "2026060201_pred.h5",
+      "max_absolute_difference": 0.00406646728515625,
+      "mean_absolute_difference": 0.00027274071636349846
+    },
+    {
+      "session": "2026060202_pred.h5",
+      "max_absolute_difference": 0.003814697265625,
+      "mean_absolute_difference": 0.0003014611606033047
+    },
+    {
+      "session": "2026060301_pred.h5",
+      "max_absolute_difference": 0.003932952880859375,
+      "mean_absolute_difference": 0.00038099476607332
+    },
+    {
+      "session": "2026060302_pred.h5",
+      "max_absolute_difference": 0.0033969879150390625,
+      "mean_absolute_difference": 0.00035023559269559113
+    },
+    {
+      "session": "2026060401_pred.h5",
+      "max_absolute_difference": 0.00389862060546875,
+      "mean_absolute_difference": 0.00037545909738741825
+    },
+    {
+      "session": "2026060402_pred.h5",
+      "max_absolute_difference": 0.004150390625,
+      "mean_absolute_difference": 0.00043581289493151436
+    },
+    {
+      "session": "2026060501_pred.h5",
+      "max_absolute_difference": 0.002593994140625,
+      "mean_absolute_difference": 0.00029265518502996586
+    },
+    {
+      "session": "2026060502_pred.h5",
+      "max_absolute_difference": 0.002838134765625,
+      "mean_absolute_difference": 0.00032419949032380966
+    },
+    {
+      "session": "2026060901_pred.h5",
+      "max_absolute_difference": 0.004352569580078125,
+      "mean_absolute_difference": 0.0003958674468746242
+    },
+    {
+      "session": "2026060902_pred.h5",
+      "max_absolute_difference": 0.00347137451171875,
+      "mean_absolute_difference": 0.0003102960044875363
+    },
+    {
+      "session": "2026061001_pred.h5",
+      "max_absolute_difference": 0.00321197509765625,
+      "mean_absolute_difference": 0.00041174480382959167
+    }
+  ]
+}
